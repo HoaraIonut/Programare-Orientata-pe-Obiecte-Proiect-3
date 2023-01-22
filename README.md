@@ -23,7 +23,7 @@ A) Sa se proiecteze si implementeze obiectual o aplicatie de gestiune a resursel
 
  - Trebuie sa existe posibilitatea de fuzionare a doua companii (se va defini un operator + care realizeaza acest lucru, precum si o metoda la nivelul gestionarului).  Departamentele comune vor  fuziona intr-unul singur. La fuzionare toti managerii isi pastreaza functia.  
 
-La adaugarea unei companii in gestionar trebuie sa se verifice daca acea companie nu exista deja acolo. O companie este identica cu alta daca are acelasi nume si aceeasi schema de deparatamente si angajati. 
+ - La adaugarea unei companii in gestionar trebuie sa se verifice daca acea companie nu exista deja acolo. O companie este identica cu alta daca are acelasi nume si aceeasi schema de deparatamente si angajati. 
 
  
 
